@@ -22,11 +22,11 @@ To understand the data science job market, I asked the following:
 
 The following Excel skills were utilized for analysis:
 
-- ** Pivot Tables**
-- ** Pivot Charts**
-- ** DAX (Data Analysis Expressions)**
-- ** Power Query**
-- ** Power Pivot**
+- **Pivot Tables**
+- **Pivot Charts**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Power Pivot**
 
 
 ## Conclusion
