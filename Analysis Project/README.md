@@ -5,6 +5,10 @@
 
 As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
+
+### Dashboard File
+My final dashboard is in [ANALYSIS PROJECT.xlsx](ANALYSIS PROJECT.xlsx).
+
 ### Questions to Analyze
 
 To understand the data science job market, I asked the following:
