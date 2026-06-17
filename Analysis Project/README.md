@@ -7,7 +7,7 @@ As a former job seeker, I’ve always been surprised by the lack of data explori
 
 
 ### Dashboard File
-My final dashboard is in [ANALYSIS PROJECT.xlsx](ANALYSIS PROJECT.xlsx).
+My final dashboard is in [ANALYSIS_PROJECT.xlsx](ANALYSIS_PROJECT.xlsx).
 
 ### Questions to Analyze
 
